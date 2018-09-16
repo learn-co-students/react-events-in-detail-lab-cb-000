@@ -8,7 +8,7 @@ class CoordinatesButton extends React.Component {
   }
 
   render() {
-    return <button onClick={handleClick}></button>
+    return <button onClick={handleClick}>Log Coordinates!</button>
   }
 }
 
