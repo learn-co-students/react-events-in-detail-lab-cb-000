@@ -8,7 +8,7 @@ class CoordinatesButton extends React.Component {
 
  render() {
     return(
-        <button onClick={this.handleclick}>Coordinates</button>
+        <button onClick={this.handleClick}>Coordinates</button>
     );
   }
 }
